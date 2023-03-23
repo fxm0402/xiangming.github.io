@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>湘铭呀！</title>
+  
+  
+  <link href="http://xiangming.site/atom.xml" rel="self"/>
+  
+  <link href="http://xiangming.site/"/>
+  <updated>2023-03-22T16:33:56.551Z</updated>
+  <id>http://xiangming.site/</id>
+  
+  <author>
+    <name>湘铭呀！</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从被攻击到重建：我为什么选择Hexo重新搭建我的个人网站</title>
+    <link href="http://xiangming.site/2023/03/22/%E6%B9%98%E9%93%AD%E5%91%80%EF%BC%81/"/>
+    <id>http://xiangming.site/2023/03/22/%E6%B9%98%E9%93%AD%E5%91%80%EF%BC%81/</id>
+    <published>2023-03-21T16:00:00.000Z</published>
+    <updated>2023-03-22T16:33:56.551Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近，我的个人网站遭受了一次严重的网络攻击，导致网站无法正常访问。这让我感到非常沮丧和无助，因为我花费了大量的时间和精力来维护我的网站，而现在它却被攻击了。在经过一段时间的探究和思考之后，我决定使用Hexo来重新构建我的网站。</p><p>Hexo是一个基于Node.js的静态博客框架，它可以帮助用户快速、轻松地构建一个高效的博客网站。使用Hexo，用户可以方便地创建和管理博客文章，以及定制自己的网站主题和样式。此外，Hexo还具有快速生成静态页面的功能，可以大大提高网站的加载速度和性能。</p><p>开始使用Hexo并不容易，因为它需要一定的技术知识和经验。但是，我决心学习和掌握这个工具，因为我知道它可以帮助我重新建立一个更加安全和高效的网站。在接下来的两天时间里，我花费了大量的时间和精力来学习和使用Hexo，包括安装和配置Hexo，创建和管理博客文章，以及定制网站主题和样式。</p><p>在使用Hexo的过程中，我遇到了一些困难和挑战。例如，我花费了很长时间来调整网站的布局和样式，以使其看起来更加美观和专业。我还遇到了一些技术问题，例如如何在Hexo中使用自定义域名和SSL证书，以及如何优化网站的SEO和性能。但是，我没有放弃，而是继续努力学习和实践，最终成功地搭建了一个全新的Hexo网站。</p><p>现在，我的Hexo网站已经正式上线，并且得到了很多用户的好评和关注。我感到非常自豪和满足，因为我知道我已经克服了一个巨大的挑战，并成功地将我的网站从攻击中恢复过来。通过使用Hexo，我不仅重新建立了一个更加安全和高效的网站，而且还提高了我的技术水平和能力。我相信，这将对我的未来事业和生活产生积极的影响。npm i hexo-generator-feed</p>]]></content>
+    
+    
+    <summary type="html">最近，我的个人网站遭受了一次严重的网络攻击，导致网站无法正常访问。这让我感到非常沮丧和无助，因为我花费了大量的时间和精力来维护我的网站，而现在它却被攻击了。在经过一段时间的探究和思考之后，我决定使用H</summary>
+    
+    
+    
+    <category term="IT技术" scheme="http://xiangming.site/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="博客" scheme="http://xiangming.site/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="攻击" scheme="http://xiangming.site/tags/%E6%94%BB%E5%87%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>接猫记-我们的第一只猫猫</title>
+    <link href="http://xiangming.site/2022/12/21/%E6%8E%A5%E7%8C%AB%E8%AE%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%AA%E7%8C%AB%E7%8C%AB/"/>
+    <id>http://xiangming.site/2022/12/21/%E6%8E%A5%E7%8C%AB%E8%AE%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%AA%E7%8C%AB%E7%8C%AB/</id>
+    <published>2022-12-20T16:00:00.000Z</published>
+    <updated>2023-03-23T03:49:24.516Z</updated>
+    
+    <content type="html"><![CDATA[<p>想养猫猫好久了，以前在农村家里就有只狸花猫，现在也有。上学上班之后居无定所，没有能力，也就放弃了养猫猫的打算，后来上班后周边的朋友家里基本都有只猫猫，但是因为猫猫的毛发和气味，还有宝宝不喜欢猫毛到处飞也就搁置了。但是看的出来还是很喜欢猫猫的，嘴上不喜欢，心里还是不放心，昨晚给猫弄猫窝好几次。</p><p>当然，这次下定决心养猫猫也是有原因哒!</p><p>1.搬家了，一个小套二还是有它的位置的。以前的合租房子小不适合养。<br>2.也是最重要的！老房子里，有一只可恶的大老鼠！小米椒，大白菜，苹果，红薯，面粉都被它霍霍过！</p><p>关于它<br>他是一只流浪的猫猫，是我在咸鱼上遇到的，他真的非常进人，也非常可爱！哈哈哈。</p><p>接他<br>与收留他的好心人越好时间，下班到家后第一时间开车去接他，我还拿了个纸箱子（没有笼子）准备装他回来，到位置后看到他，他就一个人在哪里玩耍，我拿出我准备的冻干给他喂了一点后就开始哄骗他，哈哈哈，可能是美味的诱惑吧，竟然没有挣扎就让我抱出了门，走了一会才开始有点害怕了，哈哈哈，晚了。塞进车里，交给宝宝继续喂他，吃的不亦乐乎。完全忘记了身处何地。可能是因为第一次坐车吧，他害怕了，我加足马力冲回家！</p><p>到家<br>可能是一路上给他灌输接下来的家就是你未来的家了。到家后，开始转家到处看，除了不能进的两间屋子都被他转了一遍。</p><p>后记<br>他的名字叫“橙子”。</p><p>附图：</p>]]></content>
+    
+    
+    <summary type="html">想养猫猫好久了，以前在农村家里就有只狸花猫，现在也有。上学上班之后居无定所，没有能力，也就放弃了养猫猫的打算，后来上班后周边的朋友家里基本都有只猫猫，但是因为猫猫的毛发和气味，还有宝宝不喜欢猫毛到处飞</summary>
+    
+    
+    
+    <category term="猫猫" scheme="http://xiangming.site/categories/%E7%8C%AB%E7%8C%AB/"/>
+    
+    
+    <category term="狸花猫" scheme="http://xiangming.site/tags/%E7%8B%B8%E8%8A%B1%E7%8C%AB/"/>
+    
+    <category term="橙子" scheme="http://xiangming.site/tags/%E6%A9%99%E5%AD%90/"/>
+    
+  </entry>
+  
+</feed>
